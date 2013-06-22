@@ -6,7 +6,7 @@
     </list>
     <ignored path="demo.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="0e81f4a0-a38e-44df-8183-d99a0b225db9" time="1371925702690" ignored="false" />
+    <file path="/Dummy.txt" changelist="0e81f4a0-a38e-44df-8183-d99a0b225db9" time="1371925752375" ignored="false" />
     <file path="/Ruby Console" changelist="0e81f4a0-a38e-44df-8183-d99a0b225db9" time="1371925381862" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -417,7 +417,11 @@
       <created>1371925705663</created>
       <updated>1371925705663</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="finished demo">
+      <created>1371925753743</created>
+      <updated>1371925753743</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
